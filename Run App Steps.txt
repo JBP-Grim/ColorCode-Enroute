@@ -1,0 +1,12 @@
+------------- RUN COLOR CODE -------------------------
+
+*Download the project to your pc
+*you need node.js for instalation
+
+1. Open a terminal and step on the project folder.
+2. type the codeline: npm i
+3. type the codeline: npm start
+4. Open your on your browser: http://localhost:3000
+
+With that steps you'll be able to see the application running correctly.
+*there is no database files
