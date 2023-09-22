@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+*This project contains a txt with the steps to run the application (Run App Steps.txt)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
