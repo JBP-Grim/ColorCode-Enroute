@@ -1,0 +1,216 @@
+.row{
+    margin: auto;
+}
+
+.backgroundStyle{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+.mainFrame{
+    background-color: rgb(100, 100, 100);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.resistanceDiv{
+    background-color: rgb(231, 231, 231);
+    border-radius: 5px 5px 0 0;
+    border:1px solid rgb(231, 231, 231);
+    padding: 60px 0px 10px;
+    position: relative;
+}
+
+.ressistance{
+    background-color: bisque;
+    height: 100px;
+    width: 300px;
+    border-radius: 55px;
+    text-align: center;
+    margin: auto;
+    border: solid 1px rgb(170, 129, 53);
+    position: relative;
+    z-index: 1;
+}
+
+hr{
+    width: 500px;
+    background-color: rgb(161, 161, 161);
+    position: absolute;
+    top: 90px;
+    left:260px;
+    z-index: 0;
+}
+
+.ColorsDiv{
+    background-color: rgb(136, 136, 136);
+    border-radius: 0 0 5px 5px;
+    border:1px solid rgb(231, 231, 231);
+    padding: 10px 60px;
+    position: relative;
+    margin-top: -1px;
+}
+
+#btn-{
+    width: 70px;
+    height: 70px;
+    background-color: rgba(54, 54, 54, 0);
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px 0;
+    border: 1px rgb(32, 32, 32) solid;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+#btnPK{
+    width: 80px;
+    height: 80px;
+    background-color: pink;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnSR{
+    width: 80px;
+    height: 80px;
+    background-color: silver;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnGD{
+    width: 80px;
+    height: 80px;
+    background-color: gold;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnBK{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnBN{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(138, 59, 35);
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnRD{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnOG{
+    width: 80px;
+    height: 80px;
+    background-color: orange;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnYE{
+    width: 80px;
+    height: 80px;
+    background-color: yellow;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnGN{
+    width: 80px;
+    height: 80px;
+    background-color: green;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnBU{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnVT{
+    width: 80px;
+    height: 80px;
+    background-color: violet;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnGY{
+    width: 80px;
+    height: 80px;
+    background-color: gray;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+#btnWH{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    padding: 24px 0;
+    margin: 5px;
+}
+
+.divResult{
+    width: 100%;
+    text-align: center;
+    margin: 60px 0 20px;
+    color: rgb(48, 48, 48);
+}
